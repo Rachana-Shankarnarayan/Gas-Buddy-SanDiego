@@ -8,4 +8,4 @@ Open Street Map, Leaflets.js and geoJSON feature is used in the website.
 
 ### Map
 
-![Map](./Documents/Map.png)
+![Map](./Document/Map.png)
